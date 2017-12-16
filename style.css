@@ -1,0 +1,36 @@
+body {
+    background-color: #183846;
+    height: 100%;
+}
+
+#mainpic p {
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 2em;
+    color: #CFD5D6;
+    padding: 4em;
+}
+
+#mainpic {
+    padding: 10em;
+    background-image: url("mainpicsix.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#aboutme {
+    background-color: #CFD5D6;
+    padding: 1em;
+}
+
+#aboutme h3 {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.5em;
+}
+
+.samestyle {
+    font-family: 'Raleway', sans-serif;
+}
