@@ -13,7 +13,7 @@ body {
 
 #mainpic {
     padding: 10em;
-    background-image: url("mainpicsix.jpg");
+    background-image: url("mainpicfour.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
@@ -22,7 +22,7 @@ body {
 
 #aboutme {
     background-color: #CFD5D6;
-    padding: 1em;
+    padding: 1.5em;
 }
 
 #aboutme h3 {
@@ -33,4 +33,31 @@ body {
 
 .samestyle {
     font-family: 'Raleway', sans-serif;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+li {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.2em;
+    list-style-type: none;
+    text-align: center;
+    
+}
+
+#secondpic p {
+    text-align: center;
+    font-family: 'Monoton', sans-serif;
+    font-size: 2.2em;
+    color: #CFD5D6;
+    padding: 4em;
+}
+
+#secondpic {
+    padding: 4em;
+    background-image: url("secondpic.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
