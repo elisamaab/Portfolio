@@ -22,7 +22,8 @@ body {
 
 #aboutme {
     background-color: #CFD5D6;
-    padding: 1.5em;
+    padding-top: 1em;
+    padding-bottom: 2.5em;
 }
 
 #aboutme h3 {
@@ -49,6 +50,7 @@ li {
     text-align: center;
     font-family: 'Monoton', sans-serif;
     font-size: 2.2em;
+    letter-spacing: 4px;
     color: #CFD5D6;
     padding: 4em;
 }
@@ -60,4 +62,40 @@ li {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+
 }
+
+.icon {
+    padding:20px;
+    font-size: 30px;
+    width: 45px;
+    text-align: center;
+    text-decoration: none;
+    margin: 4px 1px
+}
+
+.icon:hover {
+    opacity: 0.7;
+}
+
+.icon-twitter {
+    background: #55acee;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
